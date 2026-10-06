@@ -1,5 +1,5 @@
 // Позволяет приложению открываться без интернета.
-const CACHE = 'money-v2';
+const CACHE = 'money-v3';
 const FILES = ['./', './index.html', './icon.png'];
 
 self.addEventListener('install', e => {
